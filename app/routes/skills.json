@@ -1,0 +1,23 @@
+[
+    {
+        "nome": "HTML",
+        "range": "100%",
+        "logo": "mdi-language-html5"
+    },
+    {
+        "nome": "CSS",
+        "range": "100%",
+        "logo": "mdi-language-css3"
+    },
+    {
+        "nome": "Javascript",
+        "range": "100%",
+        "logo": "mdi-language-javascript"
+
+    },
+    {
+        "nome": "Nodejs",
+        "range": "100%",
+        "logo": "mdi-nodejs"
+    }
+]
