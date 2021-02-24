@@ -14,11 +14,10 @@ this.addEventListener('install', function(event) {
                 //
                 '../assets/img/favicon.ico',
                 '../assets/img/apresentacao.png',
-                '../assets/img/apresentacao.png',
                 '../assets/img/icone.png',
                 '../assets/img/perfil.jpg',
                 //
-                '../manifest.json',
+                '../../manifest.json',
              ]);
         })
     );
